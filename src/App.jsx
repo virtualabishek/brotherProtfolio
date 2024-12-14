@@ -4,7 +4,7 @@ import About from "./pages/About";
 import Contact from "./pages/Contact";
 import Experience from "./pages/Experience";
 import Skills from "./pages/Skills";
-import Home from "./pages/Home.jsx ";
+import Home from "./pages/Home";
 import "./App.css";
 
 function App() {
