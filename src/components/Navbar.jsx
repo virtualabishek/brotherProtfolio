@@ -96,4 +96,4 @@ export const Navbar = () => {
   );
 };
 
-export default Na;
+export default Navbar;
