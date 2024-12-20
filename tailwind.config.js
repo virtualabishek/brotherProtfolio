@@ -5,6 +5,7 @@ export default {
     extend: {
       backgroundImage: {
         "hero-pattern": "url('src/assets/images/Home.png')",
+        "service-pattern": "url('src/assets/images/service.png')",
       },
       fontFamily: {
         sans: ["Roboto", "sans-serif"],
