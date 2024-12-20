@@ -3,7 +3,10 @@ import React from "react";
 const Hero = () => {
   return (
     <>
-      <div className="h-screen w-full bg-hero-pattern bg-cover bg-center flex items-center justify-start">
+      <div
+        id="hero"
+        className="h-screen w-full bg-hero-pattern bg-cover bg-center flex items-center justify-start"
+      >
         <div className="text-white max-w-lg md:ml-10 m-2 p-2">
           <div className="text-5xl font-bold md:mb-5 ">
             Authenticity at Work

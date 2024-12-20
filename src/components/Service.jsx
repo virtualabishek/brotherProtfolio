@@ -3,7 +3,10 @@ import React from "react";
 const Service = () => {
   return (
     <>
-      <div className="relative bg-service-pattern bg-cover bg-center h-96 w-full flex items-center justify-center">
+      <div
+        id="service"
+        className="relative bg-service-pattern bg-cover bg-center h-96 w-full flex items-center justify-center"
+      >
         <div className="absolute inset-0 bg-black opacity-50"></div>
         <h1 className="relative text-white text-4xl font-bold">Services</h1>
       </div>
