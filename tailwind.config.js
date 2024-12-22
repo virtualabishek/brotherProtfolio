@@ -4,8 +4,8 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        "hero-pattern": "url('src/assets/images/Home.png')",
-        "service-pattern": "url('src/assets/images/service.png')",
+        "hero-pattern": "url('/Home.png')",
+        "service-pattern": "url('/service.png')",
       },
       fontFamily: {
         sans: ["Roboto", "sans-serif"],
