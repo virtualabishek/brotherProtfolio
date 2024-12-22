@@ -1,5 +1,5 @@
 import React from "react";
-import customerService from "../assets/images/cutomerService.png";
+import customerService from "/cutomerService.png";
 
 const Contact = () => {
   return (

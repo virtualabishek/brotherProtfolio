@@ -1,7 +1,7 @@
 import React, { useState } from "react";
-import navbarLogo from "../assets/images/navbar_logo.svg";
-import crossIcon from "../assets/images/cross_icon.svg";
-import menuIcon from "../assets/images/menu_icon.svg";
+import navbarLogo from "/navbar_logo.svg";
+import crossIcon from "/cross_icon.svg";
+import menuIcon from "/menu_icon.svg";
 import { NavLink, useNavigate } from "react-router-dom";
 
 export const Navbar = () => {

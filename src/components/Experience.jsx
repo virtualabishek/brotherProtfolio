@@ -1,6 +1,6 @@
 import React from "react";
-import sajhaLogo from "../assets/images/sajha.png";
-import nicLogo from "../assets/images/nic.png";
+import sajhaLogo from "/sajha.png";
+import nicLogo from "/nic.png";
 const Experience = () => {
   return (
     <>
