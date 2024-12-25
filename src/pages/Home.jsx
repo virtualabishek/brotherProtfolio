@@ -2,7 +2,7 @@ import React from "react";
 import Hero from "../components/Hero";
 import About from "../components/About";
 import Services from "../components/Service";
-import Experience from "../components/Experience";
+// import Experience from "../components/Experience";
 import Contact from "../components/Contact";
 const Home = () => {
   return (
@@ -11,7 +11,7 @@ const Home = () => {
         <Hero />
         <About />
         <Services />
-        <Experience />
+        {/* <Experience /> */}
         <Contact />
       </div>
     </>
